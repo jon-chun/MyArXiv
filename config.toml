@@ -9,11 +9,6 @@ title = "Computation and Language"
 
 [[sources]]
 limit = 150
-category = "cs.CV"
-title = "Computer Vision and Pattern Recognition"
-
-[[sources]]
-limit = 150
 category = "cs.AI"
 title = "Artificial Intelligence"
 
@@ -21,6 +16,11 @@ title = "Artificial Intelligence"
 limit = 150
 category = "cs.LG"
 title = "Machine Learning"
+
+[[sources]]
+limit = 150
+category = "cs.CV"
+title = "Computer Vision and Pattern Recognition"
 
 [[sources]]
 limit = 150
